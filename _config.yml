@@ -1,5 +1,5 @@
 title: Illya Shkorubs'ky
-logo: /assets/img/mypicture.png
+logo: /assets/img/mypicture.jpg
 description: Junior Programmer
-show_downloads:true
-theme jekyll-theme-minimal
+show_downloads: true
+theme: jekyll-theme-minimal
