@@ -2,15 +2,13 @@
 [Itch.io Portfolio](https://ishkorubsky.itch.io)
 
 #### Technical Skills:
-![C#](
-/assets/img/csharp_logo.png)
+![C#](/assets/img/csharp_logo.png)
 ![C++](/assets/img/cplusplus_logo.png)
 ![Unity](/assets/img/unity_logo.png)
 ![Unreal Engine](/assets/img/unreal_engine_logo.png)
 ![SFML](/assets/img/sfml_logo.png)
 ![Git](/assets/img/git_logo.png)
-![Trello](
-/assets/img/trello_logo.png)
+![Trello](/assets/img/trello_logo.png)
 ![Confluence](/assets/img/confluence_logo.png)
 ![Jira](/assets/img/jira_logo.png)
 ![SourceTree](/assets/img/sourcetree_logo.png)
