@@ -23,9 +23,10 @@
 
 ## Projects
 ###  Steal or Be Stolen - Group Project
+Competitive Multiplayer Experience
+
 [Itch.io Page](https://ishkorubsky.itch.io/steal-or-be-stolen)
 
- Competitive Multiplayer Experience
  •    Managed to work with an artist efficiently with agile methodologies;
  •    Created the Multiplayer through the usage of Photon 2;
  •    Designed and implemented multiple mechanics to create competitiveness and
@@ -35,9 +36,10 @@
 ![Itch.io Page](/assets/img/steal_or_be_stolen.png)
 
 ### Last Stand Crossing - Solo Project
+Third-Person Survival Shooter
+
 [Publication](https://ishkorubsky.itch.io/last-stand-crossing)
 
-Third Person Survival Shooter
  • The project focused on demonstrating the power of the Unity 3D game 
 Engine through the usage of packages;
  • The cinematic effect was implemented with the usage of the Cinemachine 
