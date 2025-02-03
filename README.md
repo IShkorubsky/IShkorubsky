@@ -15,8 +15,8 @@
 
 ## Education
 - Bootcamp, Unity Pathway | Mastered (_June 2023_)	
-- Bsc(Hons) Computer Gaming Technologies | Anglia Ruskin University (_September 2022_)           		
-- Game Design | ETIC_Algarve (_June 2016_)
+- BSc Computer Gaming Technologies | Anglia Ruskin University (_September 2022_)           		
+- Game Design and Development | ETIC_Algarve (_June 2016_)
 
 ## Projects
 ###  Steal or Be Stolen - Group Project
