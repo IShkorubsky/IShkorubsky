@@ -30,12 +30,12 @@ Competitive Multiplayer Experience
  solutions for player decisions
 - Animations and UI that focused on User Experience
 
-![Itch.io Page](/assets/img/steal_or_be_stolen.png)
+![Game Logo](/assets/img/steal_or_be_stolen.png)
 
 ### Last Stand Crossing - Solo Project
 Third-Person Survival Shooter
 
-[Publication](https://ishkorubsky.itch.io/last-stand-crossing)
+[Itch.io Page](https://ishkorubsky.itch.io/last-stand-crossing)
 
 - The project focused on demonstrating the power of the Unity 3D game 
 Engine through the usage of packages
