@@ -14,9 +14,9 @@
 ![SourceTree](/assets/img/sourcetree_logo.png)
 
 ## Education
-- Bootcamp, Unity Pathway / Remote / Mastered (_June 2023_)	
-- Bsc(Hons) Computer Gaming Technologies | Grade: First with Honours | Cambridge, UK | Anglia Ruskin University (_September 2022_)           		
-- Game Design | Faro, Portugal | ETIC_Algarve (_June 2016_)
+-- Bootcamp, Unity Pathway | Remote / Mastered (_June 2023_)	
+-- Bsc(Hons) Computer Gaming Technologies | Grade: First with Honours | Cambridge, UK | Anglia Ruskin University (_September 2022_)           		
+-- Game Design | Faro, Portugal | ETIC_Algarve (_June 2016_)
 
 ## Projects
 ###  Steal or Be Stolen - Group Project
@@ -45,17 +45,3 @@ Package
 - Managed to achieve an immersive experience with the usage of animations
 
 ![Game Logo](/assets/img/last_stand_crossing.png)
-<!--
-**IShkorubsky/IShkorubsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
