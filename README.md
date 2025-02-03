@@ -3,7 +3,7 @@
 #### Technical Skills:
 ![C#](/assets/img/csharp_logo.png)
 ![C++](/assets/img/cplusplus_logo_.png)
-![CUnity](/assets/img/unity_logo_.png)
+![Unity](/assets/img/unity_logo_.png)
 ![Unreal Engine](/assets/img/unreal_engline_logo.png)
 ![SFML](/assets/img/sfml_logo.png)
 ![Git](/assets/img/git_logo.png)
