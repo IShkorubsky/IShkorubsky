@@ -27,11 +27,11 @@ Competitive Multiplayer Experience
 
 [Itch.io Page](https://ishkorubsky.itch.io/steal-or-be-stolen)
 
- •    Managed to work with an artist efficiently with agile methodologies;
- •    Created the Multiplayer through the usage of Photon 2;
- •    Designed and implemented multiple mechanics to create competitiveness and
- solutions for player decisions;
- • Animations and UI that focused on User Experience.
+- Managed to work with an artist efficiently with agile methodologies
+- Created the Multiplayer through the usage of Photon 2
+- Designed and implemented multiple mechanics to create competitiveness and
+ solutions for player decisions
+- Animations and UI that focused on User Experience
 
 ![Itch.io Page](/assets/img/steal_or_be_stolen.png)
 
@@ -40,12 +40,12 @@ Third-Person Survival Shooter
 
 [Publication](https://ishkorubsky.itch.io/last-stand-crossing)
 
- • The project focused on demonstrating the power of the Unity 3D game 
-Engine through the usage of packages;
- • The cinematic effect was implemented with the usage of the Cinemachine 
+- The project focused on demonstrating the power of the Unity 3D game 
+Engine through the usage of packages
+- The cinematic effect was implemented with the usage of the Cinemachine 
 package and the animations are rigged through the Animation Rigging 
-Package;
- •    Managed to achieve an immersive experience with the usage of animations.
+Package
+- Managed to achieve an immersive experience with the usage of animations
 
 ![Game Logo](/assets/img/last_stand_crossing.png)
 <!--
