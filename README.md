@@ -6,7 +6,7 @@
 ![CUnity](/assets/img/unity_logo_.png)
 ![Unreal Engine](/assets/img/unreal_engline_logo.png)
 ![SFML](/assets/img/sfml_logo.png)
-![Git](/assets/img/github_logo.png)
+![Git](/assets/img/git_logo.png)
 ![Trello](/assets/img/trello_logo.png)
 ![Confluence](/assets/img/confluence_logo.png)
 ![Jira](/assets/img/jira_logo.png)
