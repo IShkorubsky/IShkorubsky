@@ -1,7 +1,6 @@
 # Junior Programmer
 [Itch.io Portfolio](https://ishkorubsky.itch.io)
 
-
 #### Technical Skills:
 ![C#](
 /assets/img/csharp_logo.png)
