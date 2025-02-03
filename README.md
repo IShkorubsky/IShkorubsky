@@ -1,6 +1,16 @@
 # Junior Programmer
 
 #### Technical Skills:
+(/assets/img/csharp_logo.png)
+(/assets/img/cplusplus_logo_.png)
+(/assets/img/unity_logo_.png)
+(/assets/img/unreal_engline_logo.png)
+(/assets/img/sfml_logo.png)
+(/assets/img/github_logo.png)
+(/assets/img/trello_logo.png)
+(/assets/img/confluence_logo.png)
+(/assets/img/jira_logo.png)
+(/assets/img/sourcetree_logo.png)
 
 ## Education
 - Bootcamp, Unity Pathway | Remote | Mastered (_June 2023_)	
@@ -18,7 +28,7 @@
  solutions for player decisions;
  • Animations and UI that focused on User Experience.
 
-![Game Logo](/assets/img/steal_or_be_stolen.jpeg)
+![Game Logo](/assets/img/steal_or_be_stolen.png)
 
 ### Last Stand Crossing - Solo Project
 [Publication](https://ishkorubsky.itch.io/last-stand-crossing)
@@ -31,7 +41,7 @@ package and the animations are rigged through the Animation Rigging
 Package;
  •    Managed to achieve an immersive experience with the usage of animations.
 
-![Game Logo](/assets/img/last_stand_crossing.jpeg)
+![Game Logo](/assets/img/last_stand_crossing.png)
 
 - [Itch.io Portfolio](https://ishkorubsky.itch.io)
 
