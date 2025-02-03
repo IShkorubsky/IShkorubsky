@@ -3,7 +3,8 @@
 
 
 #### Technical Skills:
-![C#](/assets/img/csharp_logo.png)
+![C#](
+/assets/img/csharp_logo.png)
 ![C++](/assets/img/cplusplus_logo.png)
 ![Unity](/assets/img/unity_logo.png)
 ![Unreal Engine](/assets/img/unreal_engine_logo.png)
@@ -31,7 +32,7 @@
  solutions for player decisions;
  • Animations and UI that focused on User Experience.
 
-![Game Logo](/assets/img/steal_or_be_stolen.png)
+![Itch.io Page](/assets/img/steal_or_be_stolen.png)
 
 ### Last Stand Crossing - Solo Project
 [Publication](https://ishkorubsky.itch.io/last-stand-crossing)
