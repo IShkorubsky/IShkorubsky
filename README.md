@@ -1,16 +1,16 @@
 # Junior Programmer
 
 #### Technical Skills:
-(/assets/img/csharp_logo.png)
-(/assets/img/cplusplus_logo_.png)
-(/assets/img/unity_logo_.png)
-(/assets/img/unreal_engline_logo.png)
-(/assets/img/sfml_logo.png)
-(/assets/img/github_logo.png)
-(/assets/img/trello_logo.png)
-(/assets/img/confluence_logo.png)
-(/assets/img/jira_logo.png)
-(/assets/img/sourcetree_logo.png)
+![C#](/assets/img/csharp_logo.png)
+![C++](/assets/img/cplusplus_logo_.png)
+![CUnity](/assets/img/unity_logo_.png)
+![Unreal Engine](/assets/img/unreal_engline_logo.png)
+![SFML](/assets/img/sfml_logo.png)
+![Git](/assets/img/github_logo.png)
+![Trello](/assets/img/trello_logo.png)
+![Confluence](/assets/img/confluence_logo.png)
+![Jira](/assets/img/jira_logo.png)
+![SourceTree](/assets/img/sourcetree_logo.png)
 
 ## Education
 - Bootcamp, Unity Pathway | Remote | Mastered (_June 2023_)	
