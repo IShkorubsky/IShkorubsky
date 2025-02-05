@@ -13,14 +13,11 @@
 ![Jira](/assets/img/jira_logo.png)
 ![SourceTree](/assets/img/sourcetree_logo.png)
 
-## Education
-- Bootcamp, Unity Pathway | Mastered (_June 2023_)	
-- BSc Computer Gaming Technologies | Anglia Ruskin University (_September 2022_)           		
-- Game Design and Development | ETIC_Algarve (_June 2016_)
-
-## Projects
+## Experience
 ###  Steal or Be Stolen - Group Project
 Competitive Multiplayer Experience
+
+![Game Logo](/assets/img/steal_or_be_stolen.png)
 
 [Itch.io Page](https://ishkorubsky.itch.io/steal-or-be-stolen)
 
@@ -30,10 +27,10 @@ Competitive Multiplayer Experience
  solutions for player decisions
 - Animations and UI that focused on User Experience
 
-![Game Logo](/assets/img/steal_or_be_stolen.png)
-
 ### Last Stand Crossing - Solo Project
 Third-Person Survival Shooter
+
+![Game Logo](/assets/img/last_stand_crossing.png)
 
 [Itch.io Page](https://ishkorubsky.itch.io/last-stand-crossing)
 
@@ -44,4 +41,7 @@ package and the animations are rigged through the Animation Rigging
 Package
 - Managed to achieve an immersive experience with the usage of animations
 
-![Game Logo](/assets/img/last_stand_crossing.png)
+## Education
+- Bootcamp, Unity Pathway | Mastered (_June 2023_)	
+- BSc Computer Gaming Technologies | Anglia Ruskin University (_September 2022_)           		
+- Game Design and Development | ETIC_Algarve (_June 2016_)
